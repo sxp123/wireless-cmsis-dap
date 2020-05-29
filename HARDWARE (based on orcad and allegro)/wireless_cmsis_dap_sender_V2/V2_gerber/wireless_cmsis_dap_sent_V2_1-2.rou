@@ -1,0 +1,23 @@
+;EXTENTS: -148.500 -105.000 148.500 105.000 
+;LEADER: 12 
+;HEADER: 
+;CODE  : ASCII 
+;FILE  : H:/myfile/wireless_jtag/wireless_cmsis_dap_sent_V2/gerber/wireless_cmsis_dap_sent_V2_1-2.rou for board H:/myfile/wireless_jtag/wireless_cmsis_dap_sent_V2/#Taaaabt19280.tmp, layers TOP to BOTTOM
+%
+G90
+F1
+M16
+T01
+M16
+G00X-2335000Y-579990
+G40
+M15
+G01X-2185000Y-579990
+M16
+G00X-2335000Y579990
+G40
+M15
+G01X-2185000Y579990
+M16
+G40
+M30

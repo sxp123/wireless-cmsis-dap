@@ -1,0 +1,330 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.4.0 d001May-17-2020 at 18:57:19 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='STLINK_WIRELESS';
+ POST_TIME='Oct  7 2019 04:16:49';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS952@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins952@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins952@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_C0805_223':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS12731@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins12731@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins12731@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_C0603_0':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS21431@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins21431@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins21431@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_C0603_0':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS21457@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins21457@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins21457@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C0603_20P':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS968@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins968@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins968@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C0603_105':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS1314@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins1314@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins1314@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_C0603_103':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS1989@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins1989@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins1989@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_C0805_223':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS2219@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins2219@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins2219@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_C0603_106':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS2359@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins2359@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins2359@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_C0805_103':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS5462@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins5462@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins5462@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_C1206_100U':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS12536@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins12536@discrete.\cap np.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins12536@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS11774@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins11774@discrete.\led.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins11774@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS11790@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins11790@discrete.\led.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins11790@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0603_LED':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS11806@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins11806@discrete.\led.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins11806@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 '4 HEADER_SIP4_SWD_DOWNLOAD':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS3157@CONNECTOR.4 HEADER.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins3157@connector.\4 header.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins3157@connector.\4 header.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'SMA_SMA_KWE_SMA':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS18688@CONNECTOR.SMA.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins18688@connector.\sma.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins18688@connector.\sma.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_C0603_10K':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS1181@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins1181@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins1181@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_C0603_20R':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS2999@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins2999@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins2999@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_C0603_20R':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS3025@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins3025@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins3025@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_C0603_4.7K':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS3079@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins3079@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins3079@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_C0603_510R':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS5068@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins5068@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins5068@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_C0603_510R':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS7344@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins7344@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins7344@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_C0603_510R':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS7370@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins7370@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins7370@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_C0805_0':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS13136@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins13136@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins13136@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_C0603_0':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS21302@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins21302@discrete.\resistor.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins21302@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW MAG-SPST/SM_KEY_SMD_RST':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS1142@DISCRETE.SW MAG-SPST/SM.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins1142@discrete.\sw mag-spst/sm.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins1142@discrete.\sw mag-spst/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW2 'SW DIP-2/SM_SWITCH_2_SMD_SW DIP-2/SM':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS16064@DISCRETE.SW DIP-2/SM.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins16064@discrete.\sw dip-2/sm.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins16064@discrete.\sw dip-2/sm.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103C8T6_LQFP48_STM32F103C8T6':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS561@MICROCONTROLLER.STM32F103C8T6.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins561@microcontroller.\stm32f103c8t6.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins561@microcontroller.\stm32f103c8t6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'SPX3819M5-L-3-3_SOT23-5_SPX3819M5-L-3-3':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS753@POWER.SPX3819M5-L-3-3.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins753@power.\spx3819m5-l-3-3.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins753@power.\spx3819m5-l-3-3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'USB_A_USB_A_SMT_USB_A':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS792@CONNECTOR.USB_A.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins792@connector.\usb_a.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins792@connector.\usb_a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'HC25_SMT_HC_25_SMT_N_HC25_SMT':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS14551@MICROCONTROLLER.HC25_SMT.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins14551@microcontroller.\hc25_smt.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins14551@microcontroller.\hc25_smt.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL13_0_50322_CRYSTAL13':;
+
+SECTION_NUMBER 1
+ '@STLINK_WIRELESS.SCHEMATIC1(SCH_1):INS841@STLINK_WIRELESS.CRYSTAL13_0.NORMAL(CHIPS)':
+ C_PATH='@stlink_wireless.schematic1(sch_1):ins841@stlink_wireless.\crystal13_0.normal\(chips)',
+ P_PATH='@stlink_wireless.schematic1(sch_1):page1_ins841@stlink_wireless.\crystal13_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

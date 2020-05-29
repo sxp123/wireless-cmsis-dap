@@ -1,0 +1,230 @@
+(ExpressProject "stlink_wireless"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "17.4-2019 P001 (3823098) [10/7/2019]-[05/18/20]")
+  (ProjectType "Analog or A/D Mixed Mode")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\abm.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\analog.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\analog_p.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\breakout.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\eval.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\evalaa.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\evalp.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\source.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\sourcstm.olb"
+        (Type "Schematic Library"))
+      (File
+         "E:\cadence\Cadence\Cadence_SPB_17.4-2019\tools\capture\library\pspice\demo\special.olb"
+        (Type "Schematic Library"))
+      (File ".\stlink_wireless-pspicefiles\power.olb"
+        (Type "Schematic Library"))
+      (File
+         "e:\cadence\cadence\cadence_spb_17.4-2019\tools\capture\library\connector.olb"
+        (Type "Schematic Library"))
+      (File
+         "e:\cadence\cadence\cadence_spb_17.4-2019\tools\capture\library\microcontroller.olb"
+        (Type "Schematic Library"))
+      (File
+         "e:\cadence\cadence\cadence_spb_17.4-2019\tools\capture\library\capsym.olb"
+        (Type "Schematic Library"))
+      (File
+         "e:\cadence\cadence\cadence_spb_17.4-2019\tools\capture\library\discrete.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File "stlink_wireless.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Netlist_TAB "0")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory"
+       "H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "FALSE")
+    ("Allegro Netlist Output Board File" ".\allegro\stlink_wireless.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "255")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420"))
+  (Folder "Layout"
+    (File ".\wireless_cmsis_dap_recieve\cmsis_dap_receive.brd"
+      (Type "Board File")
+      (OutputBoard ".\wireless_cmsis_dap_recieve\cmsis_dap_receive.brd")
+      (NetListPath ".\wireless_cmsis_dap_recieve")
+      (ActiveBoard "0")))
+  (Folder "Outputs"
+    (File ".\netlist\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\netlist\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\netlist\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\wireless_cmsis_dap_recieve\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\wireless_cmsis_dap_recieve\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\wireless_cmsis_dap_recieve\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles"
+      (ActiveProfile ".\stlink_wireless-pspicefiles\schematic1\bias.sim")
+      (File.PSpice.{09528990-3187-11D2-BC7B-00A0C90CBF91}
+         ".\stlink_wireless-pspicefiles\schematic1\bias.sim"
+        (DisplayName "SCHEMATIC1-bias")
+        (Type "PSpice Profile")))
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (DefaultLibraryBrowseDirectory "library\PSpice")
+  (PartMRUSelector
+    (SMA
+      (FullPartName "SMA.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("SW DIP-2/SM"
+      (FullPartName "SW DIP-2/SM.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("SW MAG-SPST/SM"
+      (FullPartName "SW MAG-SPST/SM.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (HC25_SMT
+      (FullPartName "HC25_SMT.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (HC-25
+      (FullPartName "HC-25.Normal")
+      (LibraryName
+         "E:\MYFILE\WIRELESS_JTAG\STLINK_WIRELESS-PSPICEFILES\POWER.OLB")
+      (DeviceIndex "0"))
+    ("4 HEADER"
+      (FullPartName "4 HEADER.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (CRYSTAL13
+      (FullPartName "CRYSTAL13.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (USB_A
+      (FullPartName "USB_A.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (SPX3819M5-L-3-3
+      (FullPartName "SPX3819M5-L-3-3.Normal")
+      (LibraryName
+         "E:\MYFILE\WIRELESS_JTAG\STLINK_WIRELESS-PSPICEFILES\POWER.OLB")
+      (DeviceIndex "0"))
+    (STM32F103C8T6
+      (FullPartName "STM32F103C8T6.Normal")
+      (LibraryName
+         "E:\CADENCE\CADENCE\CADENCE_SPB_17.4-2019\TOOLS\CAPTURE\LIBRARY\MICROCONTROLLER.OLB")
+      (DeviceIndex "0"))
+    (BFG194
+      (FullPartName "BFG194.Normal")
+      (LibraryName "..\..\library\pspice\DEMO\EVALAA.OLB")
+      (DeviceIndex "0")))
+  (LastUsedLibraryBrowseDirectory
+     "E:\myfile\wireless_jtag\stlink_wireless-PSpiceFiles")
+  (MPSSessionName "Administrator")
+  (Folder "Logs")
+  (ISPCBBASICLICENSE "false")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" "Library")
+      (Path "Layout")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2\stlink_wireless.dsn"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 316"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 28 5 828 28 338")
+        (Scroll "395 117")
+        (Zoom "92")
+        (Occurrence "/"))
+      (Path
+         "H:\MYFILE\WIRELESS_JTAG\WIRELESS_CMSIS_DAP_SENT_V2\STLINK_WIRELESS.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

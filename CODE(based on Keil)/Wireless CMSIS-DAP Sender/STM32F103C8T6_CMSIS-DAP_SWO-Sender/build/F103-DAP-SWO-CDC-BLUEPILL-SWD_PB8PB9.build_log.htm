@@ -1,0 +1,88 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: ¦ÌVision V5.27.1.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: È¥1 Administrator, 1, LIC=58545-GPWJY-YVS1Y-I3K3G-T65JA-2UQDJ
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.27.1.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.27.1.0
+Dialog DLL:      DARMSTM.DLL V1.68.0.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.6.0
+Dialog DLL:      TARMSTM.DLL V1.66.0.0
+ 
+<h2>Project:</h2>
+H:\myfile\wireless_jtag\STM32F103C8T6_CMSIS-DAP_SWO-master\myprj\20200527\STM32F103C8T6_CMSIS-DAP_SWO-master-testA\STM32F103C8T6_CMSIS-DAP_SWO-master\STM32F103C8T6DAP.uvproj
+Project File Date:  03/11/2020
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Rebuild target 'STM32F103-BLUEPILL'
+assembling startup_stm32f10x_md.s...
+compiling system_stm32f10x.c...
+User\system_stm32f10x.c(102): warning:  #1215-D: #warning directive: "Use STM32F103Cx (72 MHz)"
+  		#warning "Use STM32F103Cx (72 MHz)"
+User\system_stm32f10x.c: 1 warning, 0 errors
+compiling main.c...
+.\USB\call_usart2.h(7): warning:  #1-D: last line of file ends without a newline
+  #endif
+User\main.c(24): warning:  #1215-D: #warning directive: "BLUEPILL board: using SWD/TMS-PB9, SWC/TCK-PB8, TDO-PB7, nRESET-PB6, TDI-PB5"
+  #warning "BLUEPILL board: using SWD/TMS-PB9, SWC/TCK-PB8, TDO-PB7, nRESET-PB6, TDI-PB5"
+User\main.c(34): warning:  #1215-D: #warning directive: "SWD mode + JTAG mode"
+  #warning "SWD mode + JTAG mode"
+User\main.c(200): warning:  #177-D: variable "i"  was declared but never referenced
+  	uint8_t i=0;
+User\main.c: 4 warnings, 0 errors
+compiling DAP.c...
+compiling JTAG_DP.c...
+compiling SW_DP.c...
+compiling SWO.c...
+compiling misc.c...
+compiling stm32f10x_flash.c...
+compiling stm32f10x_gpio.c...
+compiling stm32f10x_rcc.c...
+compiling DMA_STM32F10x.c...
+compiling GPIO_STM32F10x.c...
+compiling usb_config.c...
+compiling USART_STM32F10x.c...
+Driver\STM32F10x_ARM_Driver\USART_STM32F10x.h(42): warning:  #1215-D: #warning directive: "Use PB7 as SWO port."
+  #warning "Use PB7 as SWO port."
+Driver\STM32F10x_ARM_Driver\USART_STM32F10x.c: 1 warning, 0 errors
+compiling usbd_STM32F103.c...
+compiling usbd_user_hid.c...
+USB\data.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB\call_usart2.h(7): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB\usbd_user_hid.c(248): warning:  #177-D: variable "i"  was declared but never referenced
+  	uint8_t i;
+USB\usbd_user_hid.c(249): warning:  #177-D: variable "free_data"  was declared but never referenced
+  	uint8_t free_data=0xfc;
+USB\usbd_user_hid.c: 4 warnings, 0 errors
+compiling usbd_user_cdc_acm.c...
+USB\call_usart2.h(7): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB\data.h(16): warning:  #1-D: last line of file ends without a newline
+  #endif
+USB\usbd_user_cdc_acm.c(185): warning:  #177-D: variable "cnt"  was declared but never referenced
+  	int32_t cnt;
+USB\usbd_user_cdc_acm.c(91): warning:  #177-D: variable "uart_tx_buf"  was declared but never referenced
+  static            uint8_t       uart_tx_buf[UART_BUFFER_SIZE];
+USB\usbd_user_cdc_acm.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=26264 RO-data=1112 RW-data=264 ZI-data=15928  
+FromELF: creating hex file...
+".\build\F103-DAP-SWO-CDC-BLUEPILL-SWD_PB8PB9.axf" - 0 Error(s), 14 Warning(s).
+Build Time Elapsed:  00:00:05
+</pre>
+</body>
+</html>

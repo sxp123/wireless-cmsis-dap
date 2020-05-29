@@ -1,0 +1,22 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : cmsis_dap_receive.brd                         )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Mon May 18 05:24:46 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (-1.4606 1.4478) on net 3V3.
+
+Number of Xnets before update: 0        after update: 0
+Number of Diff Pairs before update: 0   after update: 0
+
+Regenerating DRC
+  Original DRC errors:   0
+  Updated DRC errors:    0
+  DRC elapsed time:      00:00:01
+
+1 warnings, 0 errors detected, 0 errors  fixed.

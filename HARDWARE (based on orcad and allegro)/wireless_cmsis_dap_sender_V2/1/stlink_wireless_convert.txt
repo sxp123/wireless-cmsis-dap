@@ -1,0 +1,9 @@
+The conversion of the project was successful.
+
+The new directory structure is as follows:
+
+H:/myfile/wireless_jtag/wireless_cmsis_dap_sent_V2/1
+    stlink_wireless.opj
+    stlink_wireless.dsn
+H:/myfile/wireless_jtag/wireless_cmsis_dap_sent_V2/1/stlink_wireless-PSpiceFiles
+H:/myfile/wireless_jtag/wireless_cmsis_dap_sent_V2/1/stlink_wireless-PSpiceFiles/SCHEMATIC1

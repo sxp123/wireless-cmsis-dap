@@ -1,0 +1,16 @@
+{ Using PSTWRITER 17.4.0 d001May-17-2020 at 18:57:19 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.25" ignored for U1: SCHEMATIC1, PAGE1 (2.10, 0.80). Connecting pin to net "SW1".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.26" ignored for U1: SCHEMATIC1, PAGE1 (2.10, 0.80). Connecting pin to net "SW2".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.32" ignored for U1: SCHEMATIC1, PAGE1 (2.10, 0.80). Connecting pin to net "PA11".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: SCHEMATIC1, PAGE1 (2.10, 0.80). Connecting pin to net "PA12".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2\pstchip.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2\pstchip.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2\pstxprt.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_sent_V2\pstxnet.dat
+packaging the design view...

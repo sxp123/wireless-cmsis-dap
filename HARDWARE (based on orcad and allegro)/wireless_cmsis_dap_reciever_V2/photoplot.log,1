@@ -1,0 +1,367 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : cmsis_dap_receive.brd                         )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Apr 15 17:23:39 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                3.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  RECTANGLE  1.50000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.52000     x 0.25000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 0.25000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.80000      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.65000                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  RECTANGLE  0.65000     x 1.06000      90.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.96520     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.60000     x 2.20000       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.10000      90.000 NO     DARK 
+  RECTANGLE  1.62000     x 0.35000       0.000 NO     DARK 
+  RECTANGLE  1.62000     x 0.35000      90.000 NO     DARK 
+  RECTANGLE  1.70000     x 1.90000      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     1.70000                                  DARK 
+  SQUARE     1.70000                     0.000 NO     DARK 
+  RECTANGLE  0.75000     x 1.16000      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.47320     x 1.32080       0.000 NO     DARK 
+  RECTANGLE  1.47320     x 1.32080      90.000 NO     DARK 
+  RECTANGLE  2.70000     x 2.30000       0.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+
+     OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < DRILL >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/DRILL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-37.5412 -42.6950)
+           ... using undefined line width of 0.2000
+
+    WARNING: text composed 0 width line found at (-26.1239 -28.4075)
+           ... using undefined line width of 0.2000
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2000
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.2000
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+
+     DRILL created with warnings
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  RECTANGLE  1.50000     x 1.00000      90.000 NO     DARK 
+  RECTANGLE  1.52000     x 0.25000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 0.25000      90.000 NO     DARK 
+  RECTANGLE  1.60000     x 1.80000      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20000                                  DARK 
+  RECTANGLE  0.65000     x 1.06000      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  2.60000     x 2.20000       0.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10160                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15010                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.2000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+
+     SILKSCREEN_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        SOLDERMASK_TOP created.
+        SOLDERMASK_BOTTOM created.
+        OUTLINE created.
+        DRILL created with warnings
+        PASTEMASK_TOP created.
+        PASTEMASK_BOTTOM created.
+        SILKSCREEN_BOTTOM created.
+        SILKSCREEN_TOP created.
+
+ ARTWORK had warnings

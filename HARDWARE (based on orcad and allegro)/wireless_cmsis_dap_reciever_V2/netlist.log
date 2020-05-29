@@ -1,0 +1,21 @@
+{ Using PSTWRITER 17.4.0 d001May-17-2020 at 06:37:13 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.42" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "RST".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.45" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "TCK".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.46" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "TMS".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.41" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "TDI".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.31" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "RXD".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.30" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "TXD".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.43" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "TDO/SWO".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.32" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "PA11".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "U1.33" ignored for U1: SCHEMATIC1, PAGE1 (2.70, 0.80). Connecting pin to net "PA12".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_recieve_V2\pstchip.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_recieve_V2\pstchip.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_recieve_V2\pstxprt.dat
+
+Loading... H:\myfile\wireless_jtag\wireless_cmsis_dap_recieve_V2\pstxnet.dat
+packaging the design view...

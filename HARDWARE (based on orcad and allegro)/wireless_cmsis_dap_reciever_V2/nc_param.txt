@@ -1,0 +1,14 @@
+DRILLING               LAYER-PAIR
+BACKDRILL              NO
+COUNTER                NO
+CAVITY                 NO
+TOLERANCE_DRILL        YES
+TOLERANCE_TRAVEL       YES
+TOOL_SIZE              YES
+ROTATION               YES
+NON_STANDARD           YES
+TOTAL_DRILL            NO
+SEPARATE_SLOT          NO
+SUPPRESS_TOLERANCE     YES
+SUPPRESS_TOOLSIZE      YES
+SUPPRESS_ROTATION      YES

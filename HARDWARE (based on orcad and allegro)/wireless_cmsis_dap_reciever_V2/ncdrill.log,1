@@ -1,0 +1,65 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : cmsis_dap_receive.brd                         )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Wed Apr 15 16:53:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.4000  P        T01            0.000000     0.000000
+         0.9000  P        T02            0.000000     0.000000
+
+
+ Drill files being output to directory 'E:/myfile/wireless_jtag/wireless_cmsis_dap_recieve/gerber' ...
+
+
+
+     'cmsis_dap_receive-1-2.drl' created for holes connecting TOP and BOTTOM
+     -----------------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.4000    0.0000/  0.0000      PLATED         21
+     T02    2.   0.9000    0.0000/  0.0000      PLATED         14
+
+     ---- Total holes:                                         35
+
+     ---- Total head travel:              0.99 feet (0.30 meters)
+

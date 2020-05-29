@@ -1,0 +1,47 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC ROUTE Log                                                     )
+(                                                                     )
+(    Drawing          : cmsis_dap_receive.brd                         )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Mon May 18 05:33:24 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		YES
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+ WARNING(SPMHMF-326): Cannot find NC Route bit tool file 'ncroutebits.txt'
+ WARNING(SPMHMF-327): ... will auto-generate bit tool file 'ncroutebits_auto.txt'.
+
+ Auto-generating tool file 'ncroutebits_auto.txt' ...
+
+-------------------------------------------------------------
+
+ Program completed.
+

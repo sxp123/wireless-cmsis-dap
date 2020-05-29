@@ -1,0 +1,25 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto-interactive Convert Corner - Aicc                           )
+(                                                                     )
+(    Drawing          : wireless_cmsis_dap_sent_V2.brd                )
+(    Software Version : 17.4P001                                      )
+(    Date/Time        : Mon May 18 03:49:20 2020                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+CommandStart AiCC ************************************************************
+
+Convert Corner Parameters:
+Convert Type:           ARC
+Allow in cns areas:     Yes
+Preferred Radius Size:  5x Line Width
+Min Radius Size:        1x Line Width
+Allow DRCs:             No
+
+Result: 1 of 2 failed to convert
+
+Cline vertex:xy (-15.7100 -2.6800)	subclass: TOP	net_name: N03045 
+
+CommandEnd AiCC **************************************************************
